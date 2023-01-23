@@ -1,0 +1,5 @@
+train: /mnt/F/yoloenv/med_packs_object_detection/annotations/train/images
+val: /mnt/F/yoloenv/med_packs_object_detection/annotations/val/images
+
+nc: 1
+names: ['Medication']
